@@ -1,0 +1,621 @@
+@media(max-width:1399px){
+    .top_header a {
+        font-size: 14px;
+    }
+}
+@media(max-width:1199px){
+    .top_content{
+        margin-left: 15px;
+    }
+    .top_header h6 {
+        font-size: 18px;
+    }
+    .top_header a {
+        font-size: 14px;
+    }
+    .hero_content h2 {
+        font-size: 32px;
+    }
+    .hero_content h1 {
+        font-size: 38px;
+    }
+    .hero_content p{
+        font-size: 17px;
+    }
+    .main_footer p {
+        font-size: 13px;
+    }
+    .ftext .date_p {
+        font-size: 13px;
+        padding: 0 0;
+    }
+    .introduction_section{
+        padding: 30px 0;
+    }
+    .service_section{
+        padding: 30px;
+    }
+    .pricing_section{
+        padding: 30px 0;
+    }
+    .happy_section{
+        padding: 40px;
+    }
+    footer{
+        padding-top: 30px;
+    }
+}
+@media(max-width:991px){
+    .navbar-nav{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    .Appointment{
+        display: none;
+    }
+    .mobile_app{
+        display: contents;
+    }
+    .nav-link{
+        width: 50%;
+    }
+    .top_header{
+        flex-wrap: wrap;
+        justify-content:space-between;
+        margin-bottom: 15px;
+    }
+    .top_content{
+        margin-left: 0;
+        margin-right: 50px;
+        padding-bottom: 30px;
+    }
+    .nav-item{
+        width: 50%;
+    }
+    .navbar-brand{
+        display: contents;
+    }
+    .hero_content h2 {
+        font-size: 30px;
+        padding: 6px 20px;
+    }
+    .hero_content h1{
+        font-size: 32px;
+    }
+    .hero_content p {
+        font-size: 16px;
+    }
+    /* .about_image{
+        display: none;
+    } */
+    
+   
+    .mobile_header{
+        display: contents;
+    }
+    .desktop_header{
+        display: none;
+    }
+    .hero_image{
+        width: 50%;
+    }
+    .owl-nav{
+        display: none;
+    }
+    .item2 span {
+        font-size: 35px;
+    }
+    .item2 p{
+        font-size: 14px;
+    }
+    .item3 ul li{
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+    .item1 span {
+        font-size: 25px;
+    }
+    .item1 p {
+        font-size: 13px;
+    }
+    .ftext .date_p {
+        font-size: 8px;
+        padding: 0 0;
+    }
+    .main_footer p{
+        font-size: 10px;
+    }
+    .ficon i {
+        font-size: 20px;
+    }
+    .ftext p {
+        margin-left: 5px;
+    }
+    .email form input[type="email"]{
+        padding: 7px 10px;
+    }
+    .email form input[type="submit"] {
+        padding: 7px 10px;
+    }
+    .email form input[type="email"]::placeholder{
+        font-size: 13px;
+    }
+    .finish {
+        font-size: 12px;
+    }
+    .footer_header{
+        width: 150px;
+    }
+    .footer_header h3 {
+        font-size: 25px;
+    }
+    .about_heading h1 {
+        font-size: 25px;
+        padding: 0 0;
+    }
+    .about_content p {
+        font-size: 13px;
+    }
+    .about_content h4 {
+text-align: justify;    }
+    .about_section{
+        padding: 50px 0 0 0;
+    }
+    .about_heading p {
+        font-size: 12px;
+    }
+    .introduction_section{
+        padding: 30px 0;
+    }
+    .service_section{
+        padding: 30px 0;
+    }
+    .pricing_section{
+        padding: 30px 0;
+    }
+    footer{
+        padding-top: 30px;
+    }
+    .happy_section {
+        padding: 40px 0;
+    }
+    .service_content p {
+        font-size: 14px;
+    }
+    .service_content a {
+        font-size: 14px;
+    }
+    .service_content {
+        padding: 20px 30px;
+        margin-top: 30px;
+        text-align: justify;
+    }
+    .intro_heading h1 {
+        font-size: 30px;
+    }
+
+
+
+}
+@media(max-width:767px){
+
+    .follow_now h5{
+        padding-bottom: 15px;
+    }
+    .footer_content{
+        padding-bottom: 30px;
+    }
+    .footer_header h3 {
+
+        padding-bottom: 15px;
+    }
+    .brand_ligo {
+        width: 70px;
+    }
+    .mobile_header{
+        display: contents;
+    }
+    .mobile_header{
+        display: contents;
+    }
+    .hero_image{
+        position: static;
+       /* top: 0; */
+        /* transform: translateY(-50%); */
+    }
+    .height{
+        flex-direction: column-reverse;
+        
+    }
+    .hero_content{
+        text-align: center;
+    }
+
+}
+
+
+
+@media(max-width:575px){
+    .navbar-brand{
+        display: contents;
+    }
+    .mobile_app{
+        display: contents;
+    }
+    .navbar-nav .nav-link{
+        text-align: left;
+    }
+    .hero_content h1 {
+        font-size: 45px ;
+        padding: 7px 15px;
+    }
+    .hero_content h2 {
+        font-size: 32px ;
+        padding: 7px 15px;
+    }
+    .navbar-nav{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    .nav-item{
+        width: 50%;
+    }
+    .top_content{
+        margin: 10px 20px 10px 0;
+        
+    }
+    .top_header{
+        flex-wrap: wrap;
+        justify-content:space-between;
+    }
+
+    .height{
+        flex-direction: column-reverse;
+    }
+    .owl-nav{
+        display: none;
+    }
+    .hero_image {
+        top: 20px;
+        transform: translateX(-50%);
+        left: 50%;
+        width: 38%;
+        position: absolute;
+    }
+    .hero_content {
+        margin-bottom: 50px ;
+        padding-top: 20px;
+    }
+    .follow_now h5 {
+        padding-top: 20px;
+    }
+    .finish{
+        font-size: 14px;
+    }
+    .top_header a{
+        color:#6d0be6;
+    }
+    .service_content{
+        padding: 40px 50px;
+    }
+    .ftext .date_p {
+        font-size: 15px;
+    }
+    .ftext p{
+        font-size: 16px;
+    }
+    .fimg img 
+    {
+        width: 100px;
+    }
+    .main_footer p {
+        font-size: 16px;
+    }
+
+
+
+
+
+
+    .main_logo{
+        width: 40%;
+    }
+    .desktop_header{
+        display: none;
+    }
+    .hero_image img{
+        margin: 0;
+        width: 65%;
+    }
+    .hero_image img {
+        left: 100px;
+    }
+    .height{
+        text-align: center;
+    }
+    .about_heading h1 {
+        font-size: 30px;
+        padding: 10px 0;
+    }
+    .about_section {
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    .about_image img{
+        display: none;
+    }
+    .introduction_section{
+        padding: 40px 0;
+    }
+    .doctor {
+        margin-top: 50px;
+    }
+    .service_section{
+        padding: 35px 0;
+    }
+    .pricing_section{
+        padding: 35px 0;
+    }
+    .footer_header h3{
+        text-align: center;
+    }
+    .footer_content{
+        padding-bottom: 35px;
+    }
+    .follow_now h5 {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .icon_list ul {
+        justify-content: center;
+    }
+
+    .row {
+        --bs-gutter-x:0;
+        --bs-gutter-y: 0;
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: calc(var(--bs-gutter-y) * -1);
+        margin-right: calc(var(--bs-gutter-x) * -.5);
+        margin-left: calc(var(--bs-gutter-x) * -.5);
+    }
+    .about_content{
+        text-align: center;
+    }
+    .about_content h4{
+        text-align: center;
+    }
+
+
+
+}
+
+@media(max-width:475px){
+    .hero_image{
+        top: 45px;
+    }
+    .hero_content h2 {
+        font-size: 30px;
+    }
+    .hero_content h1 {
+        font-size: 40px;
+    }
+    .hero_content p {
+        font-size: 15px
+    }
+    .about_heading h1 {
+        font-size: 27px;
+    }
+    .about_content p {
+        font-size: 15px;
+    }
+    .intro_heading h1 {
+        font-size: 30px;
+    }
+    .item2 span {
+        font-size: 44px;
+    }.happy_section{
+        padding: 25px;
+    }
+    footer{
+        padding-top: 35px;
+    }
+}
+@media(max-width:425px){
+    .hero_image {
+        top: 30px;
+        width: 50%;
+    }
+}
+@media(max-width:419px){
+    .hero_image {
+        top: 50px;
+        width: 50%;
+    }
+    .hero_content h2 {
+        font-size: 25px;
+    }
+    .hero_content h1 {
+        font-size: 35px;
+    }
+}
+
+
+
+@media(max-width:375px){
+    .main_logo{
+        width: 50%;
+    }
+    .navbar-nav .nav-link {
+        text-align: center;
+        margin: 0;
+    }
+    .hero_image{
+        /* display: none; */
+    }
+    .top_header h6{
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    .hero_content h2{
+        font-size: 20px;
+        padding: 10px 20px;
+    }
+    .hero_content h1 {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+    .hero_content p {
+        font-size: 15px;
+    }
+    .hero_botton a {
+        font-size: 13px ;
+        padding: 10px 22px;
+    }
+    .hero_image img{
+        display: none;
+    }
+    .height{
+        align-items: self-end;
+    }
+    .about_heading h1 {
+        font-size: 23px;
+        text-align: center;
+    }
+    .about_heading p{
+        font-size: 14px ;
+        text-align: center;
+    }
+    .about_content{
+        text-align: center;
+    }
+    .intro_heading h1{
+        font-size: 30px;
+    }
+    .intro_heading p{
+        font-size: 15px;
+    }
+    .image_name h3 {
+        font-size: 20px;
+    }
+    .service_content{
+        padding: 20px 20px;
+    }
+    .card{
+        
+    }
+    .item3 ul li {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .item2 span{
+        font-size: 40px;
+    }
+    .item1 span {
+        font-size: 25px;
+    }
+    .item1 p{
+        font-size: 14px;
+    }
+    .happy_heading h1{
+        font-size: 30px;
+    }
+    .happy_heading p{
+        font-size: 14px;
+    }
+    .white1{
+        width: 50%;
+        
+    }
+    .main_footer p{
+        font-size: 14px;
+        padding-bottom: 0;
+    }
+    .follow_now h5{
+        margin-right: 0;
+        margin-top: 20px;
+    }
+    .main_footer p{
+        margin-top: 10px;
+    }
+    .intro_heading h1{
+        font-size: 25px;
+    }
+    .intro_heading p {
+        font-size: 14px;
+    }
+    .doctor_name p{
+        font-size: 14px;
+        padding-top: 5px;
+    }
+    .doctor_name h6 {
+        font-size: 20px;
+    }
+    .about_content p{
+        font-size: 14px;
+    }
+    .hero_image{
+        top: 25px ;
+        width: 60%;
+    }
+    .mobile_header{
+        display: contents;
+    }
+    
+
+    
+
+
+
+
+    /* ........ */
+    .row {
+        --bs-gutter-x:0;
+    }
+
+
+
+
+
+
+
+}
+@media(max-width:320px){
+    .hero_image{
+        top: 40px ;
+        width: 65%;
+    }
+    .finish {
+        font-size: 11px;
+    }
+    .fimg img {
+        width: 130px;
+    }
+    .main_footer p {
+        font-size: 13px;
+    }
+    .ftext .date_p {
+        font-size: 12px;
+        padding: 0px 0;
+    }
+    .main_footer p {
+        margin-top: 0;
+    }
+    .brand_carousel .owl-nav{
+        display: block !important;
+    }
+    .mobile_header{
+        display: contents;
+    }
+    /* .owl-carousel .owl-item img {
+        width: 100%;
+        top: 20px;
+    } */
+    .white1 {
+        width: 80%;
+    }
+   
+}
